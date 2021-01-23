@@ -1,16 +1,14 @@
 {
-  "token": "Nzk4NjY1NzY1MTE1OTIwNDA0.X_4VdA.JqF4oQngmojDO5lERGp_F-1yGBI",
+  "token": "TOKEN HERE",
   "join_message": "Psychosis has joined the Party :D",
   "owners": [
-    787118774306078782
+    YOUR_ID_HERE
   ],
   "prefix": [
     "p/"
   ],
   "activity": "Project Psychosis | p/help",
-  "activity_type": "",
   "status_type": "dnd",
-  "alexflipnote_api": "nice_token_you_got_here",
   "version": "Created By Lost",
-  "playing": "with myself :D | p/help"
+  "playing": ""
 }
